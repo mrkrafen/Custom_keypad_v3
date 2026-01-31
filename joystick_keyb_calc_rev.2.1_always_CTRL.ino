@@ -1,5 +1,6 @@
 //scritto da: Alessandro Mammino
 //mail: krafen885@hotmail.com
+//project link: https://www.thingiverse.com/thing:7285652
 //ultima: la più libera possibile, ognuno faccia quello che vuole. GNU GPL
 
 #include <Wire.h>
